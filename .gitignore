@@ -1,0 +1,29 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.swp
+tags
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# User-specific stuff
+.idea/
+.idea/*
+.idea/r10-client-v2.iml
+.idea/vcs.xml
+
+.localhost/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+.DS_Store
+
+.vscode/settings.json
